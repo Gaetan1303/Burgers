@@ -1,0 +1,80 @@
+.hero-section {
+  display: flex;
+  align-items: center;
+  background: firebrick;
+  padding: 20%;
+}
+
+h1 {
+  font-size: 100px;
+  color: white;
+  margin: 0;
+}
+h2 {
+    font-size: 70px;
+    color: red;
+}
+h3 {
+    font-size: 80px;
+    color: black;
+}
+body {
+    
+    font-size: larger;
+    margin: 0;
+}
+
+.texte {
+    font-size: 40px;
+    color: white;
+}
+
+.burger{
+  max-height: 500px;
+}
+
+.map-section {
+  text-align: center;
+  background-color: orange;
+  color: white;
+  padding: 20px 10px;
+}
+
+.map-section h2 {
+  font-size: 100px;
+  margin: 20px 0;
+}
+
+.socials {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.socials img {
+  width: 100px;
+  height: 100px;
+}
+.milieu {
+    color: black;
+    font-size: 60px;
+}
+
+.gauche {
+    font-size: 40px;
+    color: black;
+}
+.droite {
+    font-size: 40px;
+    color: black;
+}
+.info-section {
+  display: flex;
+  justify-content: space-between;
+  padding: 3%;
+  background-color: beige;
+  color: black;
+}
+
+
+
