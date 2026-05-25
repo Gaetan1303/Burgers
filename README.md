@@ -78,12 +78,7 @@ Points à vérifier pour le rendu DWWM
 - Code propre et structuré (HTML sémantique, CSS organisé)
 - Utilisation de Docker : image construite et accessible sur le port 8080
 
-Conseils pour l'évaluation
--------------------------
 
-- Fournir une courte note (README + capture d'écran) expliquant les choix techniques.
-- Lister les éventuelles limites connues (images manquantes, liens relatifs à corriger).
-- Indiquer comment lancer le projet sans Docker si l'examinateur ne souhaite pas utiliser Docker.
 
 Contribuer / Modifier
 ---------------------
@@ -94,10 +89,4 @@ Contribuer / Modifier
 Licence
 -------
 
-Ce projet est fourni à titre pédagogique. Ajoutez une licence si vous souhaitez le publier.
-
-Auteur
-------
-
-Nom Prénom — Remplacez par vos coordonnées.
-
+Ce projet est fourni à titre pédagogique. 
